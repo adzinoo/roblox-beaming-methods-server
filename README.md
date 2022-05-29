@@ -2,6 +2,7 @@
 * Hcaptcha Bypass
 * 300 Tokens Per Minute
 * Verified Tokens
+* Lifetime : 50 GBP
 
 
 # DISCORD
