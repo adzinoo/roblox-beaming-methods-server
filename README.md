@@ -1,6 +1,6 @@
 # discord-token-generator.
 * Hcaptcha Bypass
-* 300 Tokens Per Minute
+* 300 Tokens / Minute
 * Verified Tokens
 * Lifetime : 50 GBP
 
