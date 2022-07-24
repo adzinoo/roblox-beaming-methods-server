@@ -2,12 +2,11 @@
 * H-captcha Bypass
 * 35 Tokens / Minute
 * Verified Tokens
-* Lifetime : 50 GBP
-
+* Lifetime : 5̶0̶ ̶G̶B̶P̶  <- NOW FREE!  ( Updated for recent patch, however, I will not be updating it again. )
 
 # DISCORD
-https://discord.gg/ZQ2uG6CsEM
+https://mboost.me/a/7nZ
 
 Preview -
-https://youtu.be/XZoBsz3WDvo
+https://www.youtube.com/watch?v=-nS2q7pyDWE
 
