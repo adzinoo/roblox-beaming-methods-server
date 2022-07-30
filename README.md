@@ -5,8 +5,8 @@
 * Lifetime :   <- NOW FREE!  ( Updated for recent patch, however, I will not be updating it again. )
 
 # DISCORD
-https://mboost.me/a/7p8
+https://mboost.me/a/7to
 
 Preview -
-https://www.youtube.com/watch?v=-nS2q7pyDWE
+https://www.youtube.com/watch?v=dEmr8if3bH0
 
